@@ -1,5 +1,5 @@
 import re
-input_text = input("Type your statement.")
+input_text = input("Type your text:")
 
 # This is a list of profanity to check for
 profanity = ["fuck", "bitch", "shit"]
